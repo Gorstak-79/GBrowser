@@ -1,0 +1,2 @@
+# GBrowser
+Small footprint browser
